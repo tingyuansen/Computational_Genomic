@@ -6,21 +6,9 @@ This is the website for the ANU Computational Genomics Workshop conference.
 
 This website contains information about the workshop including speakers, schedule, venue details, and registration information.
 
-## GitHub Pages Deployment
+## Live Website
 
 This site is deployed using GitHub Pages and can be accessed at: `https://[your-username].github.io/[repository-name]/`
-
-## Local Development
-
-To view this website locally:
-
-1. Clone the repository
-2. Open `index.html` in your web browser
-3. Or use a local server:
-   ```bash
-   python3 -m http.server 8000
-   ```
-   Then visit `http://localhost:8000`
 
 ## Structure
 
