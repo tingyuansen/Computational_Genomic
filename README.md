@@ -8,7 +8,11 @@ This website contains information about the workshop including speakers, schedul
 
 ## Live Website
 
-This site is deployed using GitHub Pages and can be accessed at: `https://[your-username].github.io/[repository-name]/`
+🌐 **https://tingyuansen.github.io/Computational_Genomic/**
+
+## Repository
+
+📦 **https://github.com/tingyuansen/Computational_Genomic**
 
 ## Structure
 
